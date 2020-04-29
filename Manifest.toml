@@ -188,7 +188,7 @@ version = "0.8.1"
 
 [[DynamicPPL]]
 deps = ["AbstractMCMC", "Bijectors", "Distributions", "MacroTools", "Random", "ZygoteRules"]
-git-tree-sha1 = "66e7c3e8d9a243738229da474b4f09394fac5954"
+git-tree-sha1 = "b3b65dd962ae0d496416ddf9d19c76208fc432d7"
 repo-rev = "mt/sparsefd"
 repo-url = "https://github.com/TuringLang/DynamicPPL.jl.git"
 uuid = "366bfd00-2699-11ea-058f-f148b4cae6d8"
