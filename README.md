@@ -2,6 +2,7 @@
 
 using Turing, SparsityDetection
 using Turing.DynamicPPL: VarInfo, LazyVarInfo, resetlogp!, getlogpvec, Sampler
+Turing.setadbackend(:sparseforwarddiff)
 
 @model demo() = begin
     m ~ Normal()
