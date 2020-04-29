@@ -1,3 +1,5 @@
+```julia
+
 using Turing, SparsityDetection
 using Turing.DynamicPPL: VarInfo, LazyVarInfo, resetlogp!, getlogpvec, Sampler
 
@@ -26,3 +28,4 @@ jacobian_sparsity(f, y, x)
 
 # If the above works, the following line should also work.
 # sample(demo(), HMC(0.01, 1), 10)
+```
