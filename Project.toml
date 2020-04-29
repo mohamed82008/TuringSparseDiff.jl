@@ -1,0 +1,6 @@
+[deps]
+Cassette = "7057c7e9-c182-5462-911a-8362d720325c"
+DynamicPPL = "366bfd00-2699-11ea-058f-f148b4cae6d8"
+SparseDiffTools = "47a9eef4-7e08-11e9-0b38-333d64bd3804"
+SparsityDetection = "684fba80-ace3-11e9-3d08-3bc7ed6f96df"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
