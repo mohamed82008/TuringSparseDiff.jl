@@ -24,6 +24,7 @@ end
 
 x = rand(1)
 y = zeros(1)
+f(y, x)
 jacobian_sparsity(f, y, x)
 
 # If the above works, the following line should also work.
